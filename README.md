@@ -1,79 +1,78 @@
-# 👋 Hello, I'm Hope
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There,%20I'm%20Hope!&animation=fadeIn&type=waving&color=gradient&height=200&section=header"/>
+</p>
 
-🎯 **Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner**  
-🌍 Based in Ethiopia | Passionate about open-source, innovation, and impactful software
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
----
+<p align="center">
+  <a href="https://github.com/Hope0351"><img src="https://img.shields.io/github/followers/Hope0351?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
 
-### 🚀 About Me
+ 
 
-I'm an enthusiastic full-stack developer with strong skills in building modern web applications and backend services. I enjoy solving complex problems with clean and efficient code. I’m committed to continuous learning and contributing to meaningful tech projects.
+## 🧑‍💼 About Me
 
----
+name: Hope
+role: Student Developer | Tech Enthusiast | Lifelong Learner
+current_focus: 
+  - Embedded Systems
+  - Machine Learning
+  - Open Source Contribution
+interests:
+  - AI & Robotics
+  - Space Tech
+  - EdTech for Africa
+fun_fact: >-
+  I mentor students for the Ethiopian National Exam and I’m passionate about youth leadership through tech.
+ 
 
-### 🔧 Tech Stack
+## 🚀 Projects That Matter
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+| Project                                                                    | Description                                                                      | Tech Stack                   |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------- |
+| [AI-Powered Resume Scanner](https://github.com/Hope0351/resume-scanner)    | A smart app that ranks resumes based on job requirements using NLP.              | Python, Spacy, Streamlit     |
+| [Arduino Camera Viewer](https://github.com/Hope0351/arduino-camera-viewer) | Real-time image capture with Arduino Mega + OV7670 camera, displayed via OpenCV. | Arduino, Python, OpenCV      |
+| [Smart Farming System](https://github.com/Hope0351/smart-farm)             | IoT-based system to monitor and manage soil moisture and irrigation.             | C++, NodeMCU, Blynk          |
+| [ScholarTrack](https://github.com/Hope0351/scholartrack)                   | A curated platform for scholarships and application help for African students.   | React, Firebase, TailwindCSS |
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+> *More projects coming soon...*
 
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+ 
 
----
+## 💼 Skills & Tools
 
-### 🌱 Currently Learning
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</p>
 
-- MERN Stack Development  
-- API Design and RESTful Services  
-- Cloud Hosting with Vercel and Render  
-- Clean Architecture and Scalable Codebases  
-- Competitive Programming & Algorithms
+ 
 
----
+## 📊 GitHub Stats
 
-### 🧩 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hope0351&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hope0351&layout=compact&theme=radical"/>
+</p>
 
-- **📷 OV7670 Arduino + Python OpenCV Viewer**  
-  Built a real-time image transmission system using Arduino Mega, OV7670 camera, and Python OpenCV over serial.  
-  [🔗 View Project](https://github.com/Hope0351/OV7670-Arduino-Python-OpenCV)
+ 
 
-- **🛠️ Web Utilities Toolkit (Coming Soon)**  
-  A sleek collection of online tools including unit converters, hash generators, and color pickers — all built with React.
+## 🐍 Snake Game of Contributions
 
-- **📚 Academic Management Platform (In Progress)**  
-  Developing a web platform to streamline project tracking, notes, and academic performance for students and teachers.
+<p align="center">
+  <img src="https://github.com/Hope0351/Hope0351/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
+</p>
 
----
+ 
 
-### 📊 GitHub Stats
-
-![Hope's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope0351&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hope0351&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 **Email**: hope.dev.official@gmail.com
-
----
-
-> _“Great software comes from relentless curiosity and consistent practice.”_  
-> 🌟 *Always learning. Always building.*
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
+</p>
