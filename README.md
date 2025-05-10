@@ -15,7 +15,7 @@
 
 ## 🧑‍💼 About Me
 
-name: Hope
+name: Abdi Megersa
 role: Student Developer | Tech Enthusiast | Lifelong Learner
 current_focus: 
   - Embedded Systems
