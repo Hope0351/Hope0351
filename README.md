@@ -63,3 +63,6 @@ fun_fact: >-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hope0351&layout=compact&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
+</p>
