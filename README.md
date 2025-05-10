@@ -15,8 +15,8 @@
 
 ## 🧑‍💼 About Me
 
-name: Abdi Megersa
-role: Student Developer | Tech Enthusiast | Lifelong Learner
+Name: Abdi Megersa
+Role: Student Developer | Tech Enthusiast | Lifelong Learner
 current_focus: 
   - Embedded Systems
   - Machine Learning
