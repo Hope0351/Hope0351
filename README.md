@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There,%20I'm%20Hope!&animation=fadeIn&type=waving&color=gradient&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There,%20I'm%20Abdi!&animation=fadeIn&type=waving&color=gradient&height=200&section=header"/>
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
