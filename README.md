@@ -66,3 +66,8 @@ fun_fact: >-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
 </p>
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hope0351/Hope0351/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
