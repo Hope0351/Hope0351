@@ -63,14 +63,6 @@ fun_fact: >-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hope0351&layout=compact&theme=radical"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hope0351/Hope0351/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hope0351/Hope0351/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hope0351/Hope0351/output/github-snake.svg" />
-</picture>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
 </p>
