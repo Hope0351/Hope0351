@@ -48,7 +48,7 @@
 </table>
 
 <p align="center" style="font-size: 0.9em; margin-top: 10px;">
-  <em>Building innovative solutions for Africa's digital transformation</em>
+  <em>🌍Building innovative solutions for Africa's digital transformation</em>
 </p>
 
 </div>
