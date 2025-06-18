@@ -5,7 +5,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <a href="https://github.com/Hope0351"><img src="https://img.shields.io/github/followers/Hope0351?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Hope0351"><img src="https://img.shields.io/badge/Followers-641-blue?style=social&logo=github" alt="GitHub Badge"></a>
   <a href="mailto:abdimegersa02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdi-megersa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
@@ -15,18 +15,43 @@
 
 ## 🧑‍💼 About Me
 
-Name: Abdi Megersa
-Role: Web Developer | Tech Enthusiast | Lifelong Learner
-current_focus: 
-  - Embedded Systems
-  - Machine Learning
-  - Open Source Contribution
-interests:
-  - AI & Robotics
-  - Space Tech
-  - EdTech for Africa
-fun_fact: >-
-  I mentor students for the Ethiopian National Exam and I’m passionate about youth leadership through tech.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="55%" style="padding: 15px; border-right: 1px solid #30363d;">
+      <h3 align="center">Abdi Megersa</h3>
+      <p align="center" style="font-style: italic;">Full Stack Developer | Embedded Systems Engineer | AI Specialist</p>
+      <h4 align="center">Core Expertise</h4>
+      <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+        <li>▸ Web Development (Full Stack)</li>
+        <li>▸ Embedded Systems & IoT</li>
+        <li>▸ Machine Learning Pipelines</li>
+        <li>▸ Open Source Development</li>
+      </ul>
+    </td>
+    <td width="45%" style="padding: 15px;">
+      <h4 align="center">Technical Interests</h4>
+      <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+        <li>✦ 🤖 AI & Robotics</li>
+        <li>✦ 🚀 Aerospace Tech</li>
+        <li>✦ 📚 Educational Technology</li>
+      </ul>
+      <h4 align="center">Community Impact</h4>
+      <p align="center">
+        Mentoring 100+ students annually<br>
+        Organizing tech workshops<br>
+        Advocating for STEM education
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="font-size: 0.9em; margin-top: 10px;">
+  <em>Building innovative solutions for Africa's digital transformation</em>
+</p>
+
+</div>
  
 
 ## 🚀 Projects That Matter
