@@ -57,6 +57,7 @@
 
 | Project                                                                    | Description                                                                      | Tech Stack                   |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------- |
+| [Web-dev-mini-projects](https://github.com/Hope0351/Web-dev-mini-projects)    | A collection of beginner-friendly web projects.              | Python, HTML, CSS, JS     |
 | [AI-Powered Resume Scanner](https://github.com/Hope0351/resume-scanner)    | A smart app that ranks resumes based on job requirements using NLP.              | Python, Spacy, Streamlit     |
 | [Arduino Camera Viewer](https://github.com/Hope0351/arduino-camera-viewer) | Real-time image capture with Arduino Mega + OV7670 camera, displayed via OpenCV. | Arduino, Python, OpenCV      |
 | [Smart Farming System](https://github.com/Hope0351/smart-farm)             | IoT-based system to monitor and manage soil moisture and irrigation.             | C++, NodeMCU, Blynk          |
