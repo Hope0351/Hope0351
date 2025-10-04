@@ -20,7 +20,7 @@
   <tr>
     <td width="55%" style="padding: 15px; border-right: 1px solid #30363d;">
       <h3 align="center">Abdi Megersa</h3>
-      <p align="center" style="font-style: italic;">Full Stack Developer | Embedded Systems Engineer | AI Specialist</p>
+      <p align="center" style="font-style: italic;">Full Stack Developer | Ethical Hacker | Embedded Systems Engineer | AI Specialist</p>
       <h4 align="center">Core Expertise</h4>
       <ul style="list-style-type: none; padding-left: 0; text-align: center;">
         <li>▸ Web Development (Full Stack)</li>
