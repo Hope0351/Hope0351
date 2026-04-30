@@ -5,6 +5,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hope0351&color=blueviolet&style=flat-square&base=2400"/>
   <a href="https://github.com/Hope0351"><img src="https://img.shields.io/badge/Followers-641-blue?style=social&logo=github" alt="GitHub Badge"></a>
   <a href="mailto:abdimegersa02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdi-megersa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
